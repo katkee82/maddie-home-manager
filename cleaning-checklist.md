@@ -7,6 +7,10 @@
 - [ ] Scoop litter box
 - [ ] Wash dishes
 - [ ] Wipe kitchen counters
+☐ Brush teeth
+☐ Take medication
+☐ Clean patio
+☐ Put away art supplies
 
 ## Weekly
 - [ ] Vacuum floors
