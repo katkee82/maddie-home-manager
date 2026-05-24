@@ -6,7 +6,7 @@
 - [ ] Feed Tama Binx
 - [ ] Scoop litter box
 - [ ] Wash dishes
-- [ ] Wipe kitchen counters
+
 - [ ] Wipe kitchen counters
 - [ ] Brush teeth
 - [ ] Take medication
